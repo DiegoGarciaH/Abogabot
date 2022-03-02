@@ -33,48 +33,27 @@ Podemos ver el documento en formato WORD Aqui: ["REQUERIMIENTOS"](https://github
 ## Second Step: Buyer Person
 
 Tenemos que entender a la persona que vamos dirigida, ver que problemas tienen y algunos de los casos que podemos llega a encontrarnos; la creacion de estas buyer personas es de 5 personas diferentes y un porcentaje del que pueden estar asociados al sitio web a desarrollar
-[Buyer Person]()
+[Buyer Person](https://www.canva.com/design/DAE5Tm-qluk/1ntiuSaNfPYqhy470zcT8A/view?utm_content=DAE5Tm-qluk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 
 ## Thrid Step: Publico Objetivo 
 Entender al publico general al que vamos definido, donde vive, algunos intereses, es entenderlos de manera global personal
-[Plantilla General](https://github.com/DiegoGarciaH/Abogabot/blob/main/03-publico-objetivo/00-plantilla-publico-objetivo.png)
-[Persona 1](https://github.com/DiegoGarciaH/Abogabot/blob/main/03-publico-objetivo/02-Publico-Objetivo-1.png)
-[Persona 2](https://github.com/DiegoGarciaH/Abogabot/blob/main/03-publico-objetivo/03-Publico-Objetivo-2.png)
-[Persona 3](https://github.com/DiegoGarciaH/Abogabot/blob/main/03-publico-objetivo/04-Pubico-Objetivo-3.png)
-[Persona 4](https://github.com/DiegoGarciaH/Abogabot/blob/main/03-publico-objetivo/05-Publico-Objetivo-4.png)
-[Persona 5](https://github.com/DiegoGarciaH/Abogabot/blob/main/03-publico-objetivo/06-Publico-Objetivo-5.png)
+[Plantilla General](https://miro.com/app/board/uXjVOJhwauQ=/?invite_link_id=196738646221)
+
+
+
 
 ## Four Step: Wireframe
 
 Este es un tipo de esqueleto que tendra el sitio web, pero bueno habla mas el diseño que la explicacion 
 
-- [Landing Page](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/1-landing-page-mobile.png)
-- [Landing Page Mobile](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/1-landing-page-mobile.png)
-- [Login/Sign-up](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/2-login-sign-up-web.png)
-- [Login/Sign-up Mobile](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/2-login-sign-up-mobile.png)
-- [Forms](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/3-forms-web.png)
-- [Forms Mobile](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/3-forms-mobile.png)
-- [Pay Method](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/4-pay-method-web.png)
-- [Pay Method Mobile](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/4-pay-method-mobile.png)
-- [Dashboard admin](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/5-dashboard-admin-web.png)
-- [Dashboard admin Mobile](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/5-dashboard-admin-mobile.png)
-- [Dashboard client](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/6-dashboard-client-web.png)
-- [Dashboard client Mobile](https://github.com/DiegoGarciaH/Abogabot/blob/main/04-wireframe/6-dashboard-client-mobile.png)
+- [Wireframe](https://wireframepro.mockflow.com/view/MASKP0Ztxnb)
+
 
 
 ## Five Step: UI
 
 Ahora haremos un diseño de el sitio web.
 
-- [Landing Page](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/Landing-Page-Web.png)
-- [Landing Page Mobile](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/Landing-Page-Mobile.png)
-- [Menu de Landing Page](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/Menu-Landing-Page-Mobile.png)
-- [Login](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/Login-Web.png)
-- [Login Mobile](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/Login-Mobile.png)
-- [Sign-up](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/Sign-Up-Web.png)
-- [Sign-up Mobile](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/Sign-Up-Mobile.png)
-- [Forms 1](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/1-Forms-Web.png)
-- [Forms 2](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/2-Forms-Web.png)
-- [Forms 3](https://github.com/DiegoGarciaH/Abogabot/blob/main/05-UI-kit/3-Forms-Web.png)
-- proximamente :3
+- [UI](https://wireframepro.mockflow.com/view/MASKP0Ztxnb)
+
