@@ -28,7 +28,7 @@ En el desarrollo de esta proyecto se hicieron 5 procesos que indican la iniciali
 ## First Step: Analisis de Requerimientos
 
 El primero de los pasos es el analisis de requerimientos donde a traves de unas indicaciones podemos empezar a crearnos una idea y un control del proyecto en si, pero este no se puede llenar mucho dado a que esta es una documentacion desde el inicio hasta el fin del proyecto. 
-Podemos ver el documento en formato WORD Aqui: ["REQUERIMIENTOS"](https://github.com/DiegoGarciaH/Abogabot/blob/main/01-requerimientos/1.-Reqierimientos.doc)
+Podemos ver el documento en formato WORD Aqui: ["REQUERIMIENTOS"](https://github.com/DiegoGarciaH/Abogabot/blob/main/1.-Reqierimientos.doc)
 
 ## Second Step: Buyer Person
 
